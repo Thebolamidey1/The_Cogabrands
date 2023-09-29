@@ -1,0 +1,40 @@
+.crystal {
+ width: 100%;
+
+}
+
+
+.omid1 {
+ width: 100%;
+ 
+}
+
+.ajoke1 {
+ width: 100%;
+}
+
+.glow {
+  width: 100%;
+}
+
+.unmention1 {
+  width: 100%;
+}
+
+.Debbie {font-family: 'Courier New', Courier, monospace;
+}
+
+.picture-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 16px;
+  row-gap: 40px;
+}
+
+body {
+  margin: 0;
+  padding-top: 80px;
+  padding-left: 96px;
+  padding-right: 24px;
+  background-color: rgb(247, 242, 235);
+}
